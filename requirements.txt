@@ -1,0 +1,6 @@
+cryptography
+python-dotenv
+watchdog
+pywin32
+reportlab
+pyinstaller
