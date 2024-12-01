@@ -54,7 +54,7 @@ SEND_GRID_API_KEY = "your_send_grid_api_key"
 ### 1. **Clone the Repository**
 Clone the project repository from GitHub:
 ```bash
-git clone https://github.com/sudinjoshi/csce-5550-ransomware-project.git
+git clone https://github.com/sudinjoshi/csce-5550-project.git
 cd csce-5550-ransomware-project
 ```
 
